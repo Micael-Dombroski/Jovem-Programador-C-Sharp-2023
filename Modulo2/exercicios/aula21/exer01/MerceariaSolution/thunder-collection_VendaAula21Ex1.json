@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "VendaAula21Ex1",
+    "dateExported": "2023-11-24T02:33:27.735Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "72330132-b3c1-483a-bf37-34ae3e92c54a",
+            "colId": "675c9e3e-09e1-4b68-b317-b82c8a1bf9b9",
+            "containerId": "",
+            "name": "PostVenda",
+            "url": "http://localhost:5000/api/Venda",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-11-24T02:28:25.929Z",
+            "modified": "2023-11-24T02:28:48.091Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"clienteVenda\":\n  {\n    \"cpf\": \"111.111.111-11\",\n    \"nome\": \"Rogerio\",\n    \"dataNascimento\": \"2000-10-31\",\n    \"enderecoMoradia\":\n    {\n      \"rua\": \"Rua do Mel\",\n      \"numero\": 666,\n      \"bairro\": \"Jacão\",\n      \"cidade\": \"marinho\",\n      \"uf\": \"XD\"\n    }\n  },\n  \"produtoVendido\":\n    {\n      \"id\":1,\n      \"nome\": \"foguete\",\n      \"marca\": \"flamengo\",\n      \"dataVencimento\": \"2027-10-03\",\n      \"precoUnitario\": 0.75,\n      \"unidade\": \"Un\",\n      \"qtEstoque\": 20.0\n    },\n    \"quantidadeVendida\": 23.4\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "e2f86a75-f8cd-4be6-88b7-3bd6307804ed",
+            "colId": "675c9e3e-09e1-4b68-b317-b82c8a1bf9b9",
+            "containerId": "",
+            "name": "GetVendas",
+            "url": "http://localhost:5000/api/Venda",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-11-24T02:28:25.930Z",
+            "modified": "2023-11-24T02:28:25.930Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "0ac71d5d-b216-4092-915e-48d2ecbc0bca",
+            "colId": "675c9e3e-09e1-4b68-b317-b82c8a1bf9b9",
+            "containerId": "",
+            "name": "GetVenda",
+            "url": "http://localhost:5000/api/Venda/122.222.222-22",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-11-24T02:28:25.931Z",
+            "modified": "2023-11-24T02:29:46.278Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "554449dd-c90f-4832-a04a-f33a12e84c77",
+            "colId": "675c9e3e-09e1-4b68-b317-b82c8a1bf9b9",
+            "containerId": "",
+            "name": "PutVenda",
+            "url": "http://localhost:5000/api/Venda",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-11-24T02:28:25.932Z",
+            "modified": "2023-11-24T02:28:25.932Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"idVenda\": 1,\n  \"clienteVenda\":\n  {\n    \"cpf\": \"222.222.222-22\",\n    \"nome\": \"Kleber\",\n    \"dataNascimento\": \"1997-07-12\",\n    \"enderecoMoradia\":\n    {\n      \"rua\": \"Rua do Mel\",\n      \"numero\": 666,\n      \"bairro\": \"Jacão\",\n      \"cidade\": \"marinho\",\n      \"uf\": \"XD\"\n    }\n  },\n  \"produtoVendido\":\n    {\n      \"id\":1,\n      \"nome\": \"Limão\",\n      \"marca\": \"Amargo\",\n      \"dataVencimento\": \"2027-02-26\",\n      \"precoUnitario\": 5.50,\n      \"unidade\": \"Kg\",\n      \"qtEstoque\": 17.4\n    },\n    \"quantidadeVendida\": 5.7\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "b56df2bd-4d0b-4a46-9a92-14792fbc4ce2",
+            "colId": "675c9e3e-09e1-4b68-b317-b82c8a1bf9b9",
+            "containerId": "",
+            "name": "DeleteVenda",
+            "url": "http://localhost:5000/api/Venda/5",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-11-24T02:28:25.933Z",
+            "modified": "2023-11-24T02:33:17.137Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

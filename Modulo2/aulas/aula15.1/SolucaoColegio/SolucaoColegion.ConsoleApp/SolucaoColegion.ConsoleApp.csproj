@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolucaoColegio.Domain\SolucaoColegio.Domain.csproj" />
+    <ProjectReference Include="..\SolucaoColegio.Infra.Data\SolucaoColegio.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

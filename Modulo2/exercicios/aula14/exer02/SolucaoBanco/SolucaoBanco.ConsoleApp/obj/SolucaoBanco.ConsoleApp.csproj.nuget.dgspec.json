@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.ConsoleApp\\SolucaoBanco.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.Classes\\SolucaoBanco.Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.Classes\\SolucaoBanco.Classes.csproj",
+        "projectName": "SolucaoBanco.Classes",
+        "projectPath": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.Classes\\SolucaoBanco.Classes.csproj",
+        "packagesPath": "C:\\Users\\micae\\.nuget\\packages\\",
+        "outputPath": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\micae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.ConsoleApp\\SolucaoBanco.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.ConsoleApp\\SolucaoBanco.ConsoleApp.csproj",
+        "projectName": "SolucaoBanco.ConsoleApp",
+        "projectPath": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.ConsoleApp\\SolucaoBanco.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\micae\\.nuget\\packages\\",
+        "outputPath": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\micae\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.Classes\\SolucaoBanco.Classes.csproj": {
+                "projectPath": "E:\\HD\\Cursos\\DevSistemas\\Modulo2\\exercicios\\aula14\\exer02\\SolucaoBanco\\SolucaoBanco.Classes\\SolucaoBanco.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

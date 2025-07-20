@@ -1,0 +1,16 @@
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\bin\Debug\net5.0\aula04.exe
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\bin\Debug\net5.0\aula04.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\bin\Debug\net5.0\aula04.runtimeconfig.json
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\bin\Debug\net5.0\aula04.runtimeconfig.dev.json
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\bin\Debug\net5.0\aula04.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\bin\Debug\net5.0\aula04.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\refint\aula04.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\aula04.genruntimeconfig.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula04\obj\Debug\net5.0\ref\aula04.dll

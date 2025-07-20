@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "CorrentistaAula20Ex2",
+    "dateExported": "2023-11-23T03:07:15.052Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "ddf7bb07-d19f-4b2b-ae27-453d190555e6",
+            "colId": "67b83de2-8fce-48be-8748-9e139747a50d",
+            "containerId": "",
+            "name": "PostCliente",
+            "url": "http://localhost:5000/api/Cliente",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-11-23T02:42:29.279Z",
+            "modified": "2023-11-23T02:47:25.710Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"nome\": \"Cleiton\",\n  \"cpf\": \"123.456.789-00\",\n  \"rg\": \"1.111.1111-11\",\n  \"endereco\": \"rua 35, número 467, arajuara, catatão, TI\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "2bafa158-c7ec-41f0-b06f-c3e0f916169f",
+            "colId": "67b83de2-8fce-48be-8748-9e139747a50d",
+            "containerId": "",
+            "name": "GetClientes",
+            "url": "http://localhost:5000/api/Cliente",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-11-23T02:47:33.486Z",
+            "modified": "2023-11-23T03:01:09.613Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "76346a3d-b7a6-42fb-80b7-d2be955176d2",
+            "colId": "67b83de2-8fce-48be-8748-9e139747a50d",
+            "containerId": "",
+            "name": "GetCliente",
+            "url": "http://localhost:5000/api/Cliente/123.456.789-00",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-11-23T02:47:38.870Z",
+            "modified": "2023-11-23T03:01:29.597Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8579d33a-10e3-4880-9037-8a4718cfefa9",
+            "colId": "67b83de2-8fce-48be-8748-9e139747a50d",
+            "containerId": "",
+            "name": "PutCliente",
+            "url": "http://localhost:5000/api/Cliente",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-11-23T02:47:45.374Z",
+            "modified": "2023-11-23T03:02:08.255Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"nome\": \"Jailson Mendes\",\n  \"cpf\": \"123.456.789-00\",\n  \"rg\": \"1.111.1111-11\",\n  \"endereco\": \"Uma Abraço de Urso para todos :,)\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "e7e16a21-e017-4deb-a3e5-9286a2de99e4",
+            "colId": "67b83de2-8fce-48be-8748-9e139747a50d",
+            "containerId": "",
+            "name": "DeleteCliente",
+            "url": "http://localhost:5000/api/Cliente/123.456.789-00",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-11-23T02:47:58.271Z",
+            "modified": "2023-11-23T03:02:21.552Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

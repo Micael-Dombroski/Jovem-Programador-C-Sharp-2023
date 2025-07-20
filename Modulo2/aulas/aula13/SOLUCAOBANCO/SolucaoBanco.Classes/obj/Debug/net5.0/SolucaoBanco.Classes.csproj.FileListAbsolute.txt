@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\bin\Debug\net5.0\SolucaoBanco.Classes.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\bin\Debug\net5.0\SolucaoBanco.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\bin\Debug\net5.0\SolucaoBanco.Classes.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\refint\SolucaoBanco.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\SolucaoBanco.Classes.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula13\SOLUCAOBANCO\SolucaoBanco.Classes\obj\Debug\net5.0\ref\SolucaoBanco.Classes.dll

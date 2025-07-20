@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\SolucaoBanco.Domain\SolucaoBanco.Domain.csproj" />
+    <ProjectReference Include="..\SolucaoBanco.Infra.Data\SolucaoBanco.Infra.Data.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+</Project>

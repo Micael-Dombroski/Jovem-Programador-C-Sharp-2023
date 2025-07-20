@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\bin\Debug\net5.0\SolucaoBanco.Domain.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\bin\Debug\net5.0\SolucaoBanco.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\bin\Debug\net5.0\SolucaoBanco.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\refint\SolucaoBanco.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\SolucaoBanco.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula15\exer02\SolucaoBanco\SolucaoBanco.Domain\obj\Debug\net5.0\ref\SolucaoBanco.Domain.dll

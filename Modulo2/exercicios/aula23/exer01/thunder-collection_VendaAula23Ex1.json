@@ -1,0 +1,105 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "VendaAula23Ex1",
+    "dateExported": "2023-12-05T22:47:34.597Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "94b83da5-e737-4bba-801a-85a0ae4c7fae",
+            "colId": "23178e22-b150-49c5-831d-0259ba4e26d6",
+            "containerId": "",
+            "name": "PostVenda",
+            "url": "http://localhost:5000/api/Venda",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-12-05T03:46:37.646Z",
+            "modified": "2023-12-05T03:46:37.646Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"clienteVenda\":\n  {\n    \"cpf\": \"111.111.111-11\",\n    \"nome\": \"Rogerio\",\n    \"dataNascimento\": \"2000-10-31\",\n    \"enderecoMoradia\":\n    {\n      \"rua\": \"Rua do Mel\",\n      \"numero\": 666,\n      \"bairro\": \"Jacão\",\n      \"cidade\": \"marinho\",\n      \"uf\": \"XD\"\n    }\n  },\n  \"produtoVendido\":\n    {\n      \"id\":1,\n      \"nome\": \"foguete\",\n      \"marca\": \"flamengo\",\n      \"dataVencimento\": \"2027-10-03\",\n      \"precoUnitario\": 0.75,\n      \"unidade\": \"Un\",\n      \"qtEstoque\": 20.0\n    },\n    \"quantidadeVendida\": 23.4\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "8d61dc3e-7b89-4585-8d1d-70f5b4d8e058",
+            "colId": "23178e22-b150-49c5-831d-0259ba4e26d6",
+            "containerId": "",
+            "name": "GetVendas",
+            "url": "http://localhost:5000/api/Venda",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-12-05T03:46:37.647Z",
+            "modified": "2023-12-05T22:04:04.832Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "9c48b2f0-4b7c-4d7a-a7f7-f58a15b11c7e",
+            "colId": "23178e22-b150-49c5-831d-0259ba4e26d6",
+            "containerId": "",
+            "name": "GetVenda",
+            "url": "http://localhost:5000/api/Venda/111.111.111-11",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-12-05T03:46:37.648Z",
+            "modified": "2023-12-05T22:05:03.805Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "a09a1231-b50e-40a1-a2b5-7aac3b0b1dbb",
+            "colId": "23178e22-b150-49c5-831d-0259ba4e26d6",
+            "containerId": "",
+            "name": "PutVenda",
+            "url": "http://localhost:5000/api/Venda",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-12-05T03:46:37.649Z",
+            "modified": "2023-12-05T22:04:30.759Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"idVenda\": 1,\n  \"clienteVenda\":\n  {\n    \"cpf\": \"222.222.222-22\",\n    \"nome\": \"Kleber\",\n    \"dataNascimento\": \"1997-07-12\",\n    \"enderecoMoradia\":\n    {\n      \"rua\": \"Rua do Mel\",\n      \"numero\": 666,\n      \"bairro\": \"Jacão\",\n      \"cidade\": \"marinho\",\n      \"uf\": \"XD\"\n    }\n  },\n  \"produtoVendido\":\n    {\n      \"id\":1,\n      \"nome\": \"Limão\",\n      \"marca\": \"Amargo\",\n      \"dataVencimento\": \"2027-02-26\",\n      \"precoUnitario\": 5.50,\n      \"unidade\": \"Kg\",\n      \"qtEstoque\": 17.4\n    },\n    \"quantidadeVendida\": 5.7\n}",
+                "form": []
+            },
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "f34deac7-1319-4800-bc6e-4afe80036965",
+            "colId": "23178e22-b150-49c5-831d-0259ba4e26d6",
+            "containerId": "",
+            "name": "DeleteVenda",
+            "url": "http://localhost:5000/api/Venda/1",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-12-05T03:46:37.650Z",
+            "modified": "2023-12-05T22:04:17.988Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        }
+    ]
+}

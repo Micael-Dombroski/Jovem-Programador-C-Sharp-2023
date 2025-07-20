@@ -1,0 +1,17 @@
+1- criar pasta 'SolucaoTeste' //exemplo de nome
+
+2- usamos o comando 'dotnet new sln' no terminal da pasta criada no passo anterior
+
+3- usar o comando 'mkdir SolucaoTeste.Classes' no terminal da pasta
+
+4- usar o comando 'dotnet new classlib' dentro da pasta SolucaoTeste.Classes que foi criada no passo anterior
+
+5- Na pasta 'SolucaoTeste' usamos o comando 'dotnet sln add .\SolucaoTeste.Classes\' para adicionar essa pasta para a solução
+
+6- Na mesma pasta vamos criar nosso projeto de testes usamos o comando 'mkdir SolucaoTeste.Tests'
+
+7- Dentro da pasta SolucaoTeste.Tests usamos o comando 'dotnet new nunit' para criar nosso projeto de teste usável
+
+8- Na pasta 'SolucaoTeste' usamos o comando 'dotnet sln add .\SolucaoTeste.Tests' para adicionar a pasta  para a solução
+
+9- Agora devemos fazer com que nosso projeto de teste enxergue nossas classe de teste com o comando 'dotnet add .\SolucaoTeste.Tests\ reference .\SolucaoTeste.Classes\'

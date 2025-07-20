@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\bin\Debug\net5.0\SolucaoMercearia.Classes.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\bin\Debug\net5.0\SolucaoMercearia.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\bin\Debug\net5.0\SolucaoMercearia.Classes.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\refint\SolucaoMercearia.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\SolucaoMercearia.Classes.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula14\exer01\SolucaoMercearia\SolucaoMercearia.Classes\obj\Debug\net5.0\ref\SolucaoMercearia.Classes.dll

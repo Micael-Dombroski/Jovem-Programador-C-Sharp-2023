@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "ClienteAula20Ex1",
+    "dateExported": "2023-11-23T02:45:24.277Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "fb7646d5-63ec-4191-a61f-4349d0959da0",
+            "colId": "5544d411-4532-4af1-b173-406f0b1585f8",
+            "containerId": "",
+            "name": "PostItem",
+            "url": "http://localhost:5000/api/Cliente",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-11-23T01:45:16.349Z",
+            "modified": "2023-11-23T01:45:16.349Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "/*{\n  \"cpf\": \"111.111.111-11\",\n  \"nome\": \"Micael\",\n  \"dataNascimento\": \"2003-11-06\",\n  \"enderecoMoradia\": {\n    \"rua\": \"31 de Março\",\n    \"numero\": 64,\n    \"bairro\": \"Guarujá\",\n    \"cidade\": \"Lages\",\n    \"uf\": \"SC\"\n  }\n}*/\n{\n  \"cpf\": \"109.876.543-21\",\n  \"nome\": \"Ellen\",\n  \"dataNascimento\": \"2000-03-12\",\n  \"enderecoMoradia\": {\n    \"rua\": \"Rua das Pedras Azuis\",\n    \"numero\": 258,\n    \"bairro\": \"Vila Esperança\",\n    \"cidade\": \"Lages\",\n    \"uf\": \"SC\"\n  }\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "d2e729eb-9eb0-44a2-8b4d-a9654936e81f",
+            "colId": "5544d411-4532-4af1-b173-406f0b1585f8",
+            "containerId": "",
+            "name": "GetItems",
+            "url": "http://localhost:5000/api/Cliente/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-11-23T01:45:16.350Z",
+            "modified": "2023-11-23T01:45:16.350Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "b3dc7d40-3063-453c-beda-19459763e94e",
+            "colId": "5544d411-4532-4af1-b173-406f0b1585f8",
+            "containerId": "",
+            "name": "GetItem",
+            "url": "http://localhost:5000/api/Cliente/111.111.111-11",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-11-23T01:45:16.351Z",
+            "modified": "2023-11-23T01:45:16.351Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "73bd3f5a-79a5-4887-8811-735fa5a65320",
+            "colId": "5544d411-4532-4af1-b173-406f0b1585f8",
+            "containerId": "",
+            "name": "PutItem",
+            "url": "http://localhost:5000/api/Cliente/",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-11-23T01:45:16.352Z",
+            "modified": "2023-11-23T01:45:16.352Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"cpf\": \"109.876.543-21\",\n  \"nome\": \"Ellen Sanchez\",\n  \"dataNascimento\": \"2000-03-12\",\n  \"enderecoMoradia\": {\n    \"rua\": \"Rua das Pedras Azuis\",\n    \"numero\": 218,\n    \"bairro\": \"Sagrado\",\n    \"cidade\": \"Lages\",\n    \"uf\": \"SC\"\n  }\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "975324e7-63c4-43d3-8e2f-f7ecbe07df48",
+            "colId": "5544d411-4532-4af1-b173-406f0b1585f8",
+            "containerId": "",
+            "name": "DeleteItem",
+            "url": "http://localhost:5000/api/Cliente/111.111.111-11",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-11-23T01:45:16.353Z",
+            "modified": "2023-11-23T01:45:16.353Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

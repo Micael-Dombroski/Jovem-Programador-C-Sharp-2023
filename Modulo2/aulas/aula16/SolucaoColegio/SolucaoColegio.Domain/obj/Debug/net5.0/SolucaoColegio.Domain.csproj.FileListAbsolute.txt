@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\bin\Debug\net5.0\SolucaoColegio.Domain.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\bin\Debug\net5.0\SolucaoColegio.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\bin\Debug\net5.0\SolucaoColegio.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\refint\SolucaoColegio.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\SolucaoColegio.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula16\SolucaoColegio\SolucaoColegio.Domain\obj\Debug\net5.0\ref\SolucaoColegio.Domain.dll

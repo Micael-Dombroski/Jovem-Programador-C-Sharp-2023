@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\bin\Debug\net5.0\aula14.Classes.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\bin\Debug\net5.0\aula14.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\bin\Debug\net5.0\aula14.Classes.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\refint\aula14.Classes.dll
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\aula14.Classes.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\aulas\aula14\aula14.Classes\obj\Debug\net5.0\ref\aula14.Classes.dll

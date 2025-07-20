@@ -1,0 +1,105 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "ClienteAula23Ex1",
+    "dateExported": "2023-12-05T22:47:25.585Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "41acd62e-5ad0-4e1a-9ebe-b1bfbc12fb45",
+            "colId": "d3b3ca80-98b5-42f4-9620-90e2315cde13",
+            "containerId": "",
+            "name": "PostCliente",
+            "url": "http://localhost:5000/api/Cliente",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-12-05T03:46:49.278Z",
+            "modified": "2023-12-05T03:46:49.278Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "/*{\n  \"cpf\": \"111.111.111-11\",\n  \"nome\": \"Micael\",\n  \"dataNascimento\": \"2003-11-06\",\n  \"enderecoMoradia\": {\n    \"rua\": \"31 de Março\",\n    \"numero\": 64,\n    \"bairro\": \"Guarujá\",\n    \"cidade\": \"Lages\",\n    \"uf\": \"SC\"\n  }\n}*/\n{\n  \"cpf\": \"109.876.543-21\",\n  \"rg\": \"1.111.111-91\",\n  \"nome\": \"Micael\",\n  \"dataNascimento\": \"2003-11-06\",\n  \"endereco\": \"dfgdf\",\n    \"numero\": 34,\n    \"bairro\": \"dgfd\",\n    \"cidade\": \"dfggf\",\n    \"uf\": \"rt\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "52109987-6836-43a1-a533-d3227b37833c",
+            "colId": "d3b3ca80-98b5-42f4-9620-90e2315cde13",
+            "containerId": "",
+            "name": "GetClientes",
+            "url": "http://localhost:5000/api/Cliente/",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-12-05T03:46:49.279Z",
+            "modified": "2023-12-05T22:05:21.621Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "438d5fef-27a0-4209-a7ff-380fe25ebca0",
+            "colId": "d3b3ca80-98b5-42f4-9620-90e2315cde13",
+            "containerId": "",
+            "name": "GetCliente",
+            "url": "http://localhost:5000/api/Cliente/111.111.111-11",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-12-05T03:46:49.280Z",
+            "modified": "2023-12-05T22:05:28.974Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "f4fb31ba-8dea-4773-84ec-b9ef9695f4f9",
+            "colId": "d3b3ca80-98b5-42f4-9620-90e2315cde13",
+            "containerId": "",
+            "name": "PutCliente",
+            "url": "http://localhost:5000/api/Cliente/",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-12-05T03:46:49.281Z",
+            "modified": "2023-12-05T22:05:49.080Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"cpf\": \"109.876.543-21\",\n  \"rg\": \"1.111.111-11\",\n  \"nome\": \"Ellen Sanchez\",\n  \"dataNascimento\": \"2000-03-12\",\n  \"endereco\": \"dfgdf\",\n    \"numero\": 34,\n    \"bairro\": \"dgfd\",\n    \"cidade\": \"dfggf\",\n    \"uf\": \"rt\"\n}",
+                "form": []
+            },
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "68ceb494-6314-45e7-b7fb-4163d860474e",
+            "colId": "d3b3ca80-98b5-42f4-9620-90e2315cde13",
+            "containerId": "",
+            "name": "DeleteCliente",
+            "url": "http://localhost:5000/api/Cliente/111.111.111-11",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-12-05T03:46:49.282Z",
+            "modified": "2023-12-05T22:05:59.578Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        }
+    ]
+}

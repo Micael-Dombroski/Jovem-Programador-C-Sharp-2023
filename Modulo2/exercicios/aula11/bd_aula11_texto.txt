@@ -1,0 +1,89 @@
+/*create DATABASE BANCO;*/
+
+/*use BANCO;*/
+
+/*
+Criando tabelas
+
+CREATE TABLE PESSOAS
+(
+    id_pessoa INT IDENTITY(1,1) NOT NULL,
+    cpf CHAR(11) NOT NULL UNIQUE,
+    nome VARCHAR(20) NOT NULL,
+    sobrenome VARCHAR(20) NOT NULL,
+    PRIMARY KEY(id_pessoa)
+)
+
+CREATE TABLE TIPOS_CONTA
+(
+    id_tipo_conta INT IDENTITY(1,1) NOT NULL,
+    nome_tipo_conta VARCHAR(20) NOT NULL UNIQUE,
+    PRIMARY KEY(id_tipo_conta)
+)
+
+CREATE TABLE CONTAS
+(
+    id_conta INT IDENTITY(1,1) NOT NULL,
+    tipo_conta_id INT NOT NULL,
+    numero INT NOT NULL UNIQUE,
+    agencia INT NOT NULL,
+    saldo DECIMAL(11,2) NOT NULL,
+    pessoa_id INT NOT NULL,
+    PRIMARY KEY(id_conta)
+)
+
+ALTER TABLE CONTAS ADD CONSTRAINT [FK_CONTA_TIPO_CONTA] FOREIGN KEY([tipo_conta_id])
+REFERENCES TIPOS_CONTA (id_tipo_conta);
+
+ALTER TABLE CONTAS ADD CONSTRAINT [FK_CONTA_PESSOA] FOREIGN KEY([pessoa_id])
+REFERENCES PESSOAS (id_pessoa);*/
+
+/*
+Criando registros na tabela PESSOAS
+
+INSERT INTO PESSOAS (cpf, nome, sobrenome)
+VALUES ('00000000000', 'Juliano', 'Loki'),
+('10000000001', 'Marceline', 'Vampira'),
+('20000000002', 'Dust', 'Sans'),
+('30000000003', 'Goku', 'Kakaroto'),
+('40000000004', 'Suguru', 'Geto')*/
+
+/*
+Criando registros na tabela TIPOS_CONTA
+
+INSERT INTO TIPOS_CONTA(nome_tipo_conta)
+VALUES ('Conta Poupança'), ('Conta Investimento'),
+('Conta Corrente')*/
+
+/*
+Criando registros na tabela CONTAS
+
+INSERT INTO CONTAS (tipo_conta_id, numero, agencia, saldo, pessoa_id)
+VALUES (1,23,3, 2222.2, 2),
+(3,2,1, 500, 6),
+(2,456,2, 1759.63, 4),
+(3,22,27, 1200.65, 3),
+(1,13,7, 7500.07, 5)*/
+
+/*
+Criando VIEW que informa o nome do correntista, 
+o tipo de sua conta e seu saldo
+
+CREATE VIEW view_pessoa_tipo_de_conta_saldo AS
+SELECT (p.nome + ' ' + p.sobrenome) as 'Correntista', tConta.nome_tipo_conta 
+as 'Tipo de Conta', c.Saldo as 'Saldo (R$)' from CONTAS c
+INNER JOIN PESSOAS p ON (c.pessoa_id = p.id_pessoa)
+INNER JOIN TIPOS_CONTA tConta ON (c.tipo_conta_id = tConta.id_tipo_conta)
+GROUP BY (p.nome + ' ' + p.sobrenome), tConta.nome_tipo_conta, c.Saldo*/
+
+
+
+/*Usando SELECTS nas tabelas e na view*/
+
+/*SELECT * FROM PESSOAS*/
+
+/*SELECT * FROM TIPOS_CONTA*/
+
+/*SELECT * FROM CONTAS*/
+
+/*SELECT * FROM view_pessoa_tipo_de_conta_saldo*/

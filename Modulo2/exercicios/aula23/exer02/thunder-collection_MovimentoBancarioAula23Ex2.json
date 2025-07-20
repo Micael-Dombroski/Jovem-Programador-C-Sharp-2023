@@ -1,0 +1,109 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "MovimentoBancarioAula23Ex2",
+    "dateExported": "2023-12-05T22:47:47.002Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "0d0f2c03-b0fe-4d47-947b-88a795b5d77c",
+            "colId": "bbb2977e-4ebf-4b69-8fc9-030ac0c611ad",
+            "containerId": "",
+            "name": "PostMovimentoBancario",
+            "url": "http://localhost:5000/api/MovimentoBancario",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-12-05T03:46:24.345Z",
+            "modified": "2023-12-05T04:24:44.833Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"contaUsada\":\n  {\n    \"tipoConta\": 2,\n    \"agencia\": 6,\n    \"numero\": 1,\n    \"correntista\": {\n      \"nome\": \"lucas\",\n      \"cpf\": \"111.111.111-11\",\n      \"rg\": \"1.111.111-1\",\n      \"endereco\": \"dfgdf\",\n      \"numero\": 34,\n      \"bairro\": \"dgfd\",\n      \"cidade\": \"dfggf\",\n      \"uf\": \"rt\"\n    },\n    \"saldo\": 0\n  },\n  \"tipoMovimento\": \"depósito\",\n  \"valorMovimentado\": 2500.03\n}",
+                "form": []
+            },
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "463ee44a-45f9-4805-8269-d4a177bde2df",
+            "colId": "bbb2977e-4ebf-4b69-8fc9-030ac0c611ad",
+            "containerId": "",
+            "name": "GetMovimentosBancarios",
+            "url": "http://localhost:5000/api/MovimentoBancario",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-12-05T03:46:24.346Z",
+            "modified": "2023-12-05T04:24:40.324Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "ee7ade40-3615-49cd-a7ef-efb2bd608c24",
+            "colId": "bbb2977e-4ebf-4b69-8fc9-030ac0c611ad",
+            "containerId": "",
+            "name": "GetMovimentoBancario",
+            "url": "http://localhost:5000/api/MovimentoBancario/8/1",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-12-05T03:46:24.347Z",
+            "modified": "2023-12-05T04:24:56.537Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "e8193751-11a3-4978-834c-cdfda559d5df",
+            "colId": "bbb2977e-4ebf-4b69-8fc9-030ac0c611ad",
+            "containerId": "",
+            "name": "PutMovimentoBancario",
+            "url": "http://localhost:5000/api/MovimentoBancario",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-12-05T03:46:24.348Z",
+            "modified": "2023-12-05T04:25:08.784Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\": 4,\n  \"contaUsada\":\n  {\n    \"agencia\": 2,\n    \"numero\": 54,\n    \"correntista\":\n    {\n      \"nome\": \"Cleiton\",\n      \"cpf\": \"123.456.789-00\"\n    },\n    \"saldo\": 2600\n  },\n  \"tipoMovimento\": \"saque\",\n  \"valorMovimentado\": 150.74\n}",
+                "form": []
+            },
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "b53c7e4c-dfe1-4108-a0fc-6671db0d5ac8",
+            "colId": "bbb2977e-4ebf-4b69-8fc9-030ac0c611ad",
+            "containerId": "",
+            "name": "DeleteMovimentoBancario",
+            "url": "http://localhost:5000/api/MovimentoBancario/4",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-12-05T03:46:24.349Z",
+            "modified": "2023-12-05T04:25:15.812Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        }
+    ]
+}

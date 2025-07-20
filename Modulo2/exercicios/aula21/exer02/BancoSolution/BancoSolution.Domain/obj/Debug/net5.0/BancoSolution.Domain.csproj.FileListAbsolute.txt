@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\bin\Debug\net5.0\BancoSolution.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\refint\BancoSolution.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\BancoSolution.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer02\BancoSolution\BancoSolution.Domain\obj\Debug\net5.0\ref\BancoSolution.Domain.dll

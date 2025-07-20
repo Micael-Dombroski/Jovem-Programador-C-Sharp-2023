@@ -1,0 +1,119 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "UsuarioAula23Ex2",
+    "dateExported": "2023-12-05T22:48:03.116Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "d87b5084-e828-4ce4-ab80-60306d2d030b",
+            "colId": "ea9ad608-7714-4027-ac40-c908dc5710cd",
+            "containerId": "",
+            "name": "PostUsuario",
+            "url": "https://localhost:5001/api/Usuario",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-12-05T04:01:40.096Z",
+            "modified": "2023-12-05T04:01:40.096Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\": 0,\n  \"loginUsuario\": \"sitio\",\n  \"senhaUsuario\": \"amarelo\"\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "2d1d5e39-0ff2-4699-b141-7b8443e66fda",
+            "colId": "ea9ad608-7714-4027-ac40-c908dc5710cd",
+            "containerId": "",
+            "name": "TokenUsuario",
+            "url": "https://localhost:5001/api/Usuario/autenticacao/sitio/amarelo",
+            "method": "POST",
+            "sortNum": 20000,
+            "created": "2023-12-05T04:01:40.097Z",
+            "modified": "2023-12-05T04:01:40.097Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "2f132e12-c1d9-4dfe-af35-9dcdde44ae02",
+            "colId": "ea9ad608-7714-4027-ac40-c908dc5710cd",
+            "containerId": "",
+            "name": "GetUsuarios",
+            "url": "https://localhost:5001/api/Usuario",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-12-05T04:01:40.098Z",
+            "modified": "2023-12-05T04:01:40.098Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "9470929c-9e81-4323-9152-56260422350a",
+            "colId": "ea9ad608-7714-4027-ac40-c908dc5710cd",
+            "containerId": "",
+            "name": "PutUsuario",
+            "url": "https://localhost:5001/api/Usuario",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-12-05T04:01:40.099Z",
+            "modified": "2023-12-05T04:01:40.099Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"id\": 4,\n  \"loginUsuario\": \"sakana\",\n  \"senhaUsuario\": \"hyome\"\n}",
+                "form": []
+            },
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "26aa7770-517e-4acd-997e-16924fb26bf1",
+            "colId": "ea9ad608-7714-4027-ac40-c908dc5710cd",
+            "containerId": "",
+            "name": "GetUsuario",
+            "url": "https://localhost:5001/api/Usuario/sakana/hyomei",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2023-12-05T04:01:40.100Z",
+            "modified": "2023-12-05T04:01:40.100Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        },
+        {
+            "_id": "9aa3ea84-8e1e-455c-ad72-c26120a73bc4",
+            "colId": "ea9ad608-7714-4027-ac40-c908dc5710cd",
+            "containerId": "",
+            "name": "DeleteUsuario",
+            "url": "https://localhost:5001/api/Usuario/sakana/hyomei",
+            "method": "DELETE",
+            "sortNum": 60000,
+            "created": "2023-12-05T04:01:40.101Z",
+            "modified": "2023-12-05T04:01:40.101Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjciLCJuYmYiOjE3MDE3NDgxOTksImV4cCI6MTcwMjM1Mjk5OSwiaWF0IjoxNzAxNzQ4MTk5fQ.a9Psa3MVGeAxXLywqFlAH8_mNtAjXcSjxkcJ2WE7xDw"
+            },
+            "tests": []
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "ContaAula21Ex2",
+    "dateExported": "2023-11-27T19:46:53.951Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "2d45b894-8045-4e72-89b3-c6400af42a3e",
+            "colId": "ad75fba9-72d4-47cf-a0ad-8f855e15544a",
+            "containerId": "",
+            "name": "PostConta",
+            "url": "http://localhost:5000/api/Conta/",
+            "method": "POST",
+            "sortNum": 10000,
+            "created": "2023-11-24T03:39:19.646Z",
+            "modified": "2023-11-24T16:21:23.759Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"tipoConta\": 3,\n  \"agencia\": 8,\n  \"numero\": 1,\n  \"correntista\":\n  {\n    \"nome\": \"lucas\",\n    \"cpf\": \"111.111.111-11\",\n    \"rg\": \"1.111.111-1\",\n    \"endereco\": \"dfgdf\",\n    \"numero\": 34,\n    \"bairro\": \"dgfd\",\n    \"cidade\": \"dfggf\",\n     \"uf\": \"rt\"\n  }\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "cae21d67-bfd5-4b4a-94f3-79228765a811",
+            "colId": "ad75fba9-72d4-47cf-a0ad-8f855e15544a",
+            "containerId": "",
+            "name": "GetContas",
+            "url": "http://localhost:5000/api/Conta",
+            "method": "GET",
+            "sortNum": 20000,
+            "created": "2023-11-24T03:39:19.647Z",
+            "modified": "2023-11-24T03:39:19.647Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "20fa3136-0b5c-49b6-a35a-29acac268712",
+            "colId": "ad75fba9-72d4-47cf-a0ad-8f855e15544a",
+            "containerId": "",
+            "name": "GetConta",
+            "url": "http://localhost:5000/api/Conta/",
+            "method": "GET",
+            "sortNum": 30000,
+            "created": "2023-11-24T03:39:19.648Z",
+            "modified": "2023-11-24T16:07:53.656Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "8c43097d-7f05-46ba-a387-52699149bb06",
+            "colId": "ad75fba9-72d4-47cf-a0ad-8f855e15544a",
+            "containerId": "",
+            "name": "PutConta",
+            "url": "http://localhost:5000/api/Conta",
+            "method": "PUT",
+            "sortNum": 40000,
+            "created": "2023-11-24T03:39:19.649Z",
+            "modified": "2023-11-24T15:36:39.223Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"tipoConta\": 1,\n  \"agencia\": 1,\n  \"numero\": 1,\n  \"correntista\":\n  {\n    \"nome\": \"lucas\",\n    \"cpf\": \"111.111.111-11\",\n    \"rg\": \"1.111.111-1\",\n    \"endereco\": \"dfgdf\",\n    \"numero\": 34,\n    \"bairro\": \"dgfd\",\n    \"cidade\": \"dfggf\",\n     \"uf\": \"rt\"\n  },\n  \"saldo\": 750.75\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "5c5a2c8e-2b52-4a15-9e18-ee42f2319811",
+            "colId": "ad75fba9-72d4-47cf-a0ad-8f855e15544a",
+            "containerId": "",
+            "name": "DeleteConta",
+            "url": "http://localhost:5000/api/Conta/1,2",
+            "method": "DELETE",
+            "sortNum": 50000,
+            "created": "2023-11-24T03:39:19.650Z",
+            "modified": "2023-11-24T16:16:10.512Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}

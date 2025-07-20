@@ -1,0 +1,16 @@
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\bin\Debug\net5.0\exer4.exe
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\bin\Debug\net5.0\exer4.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\bin\Debug\net5.0\exer4.runtimeconfig.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\bin\Debug\net5.0\exer4.runtimeconfig.dev.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\bin\Debug\net5.0\exer4.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\bin\Debug\net5.0\exer4.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\refint\exer4.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\exer4.genruntimeconfig.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula03\exer4\obj\Debug\net5.0\ref\exer4.dll

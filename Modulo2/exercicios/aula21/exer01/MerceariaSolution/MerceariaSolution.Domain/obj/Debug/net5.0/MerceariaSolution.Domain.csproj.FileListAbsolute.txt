@@ -1,0 +1,12 @@
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\bin\Debug\net5.0\MerceariaSolution.Domain.deps.json
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\bin\Debug\net5.0\MerceariaSolution.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\bin\Debug\net5.0\MerceariaSolution.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.csproj.AssemblyReference.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.AssemblyInfoInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.AssemblyInfo.cs
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.csproj.CoreCompileInputs.cache
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\refint\MerceariaSolution.Domain.dll
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\MerceariaSolution.Domain.pdb
+E:\HD\Cursos\DevSistemas\Modulo2\exercicios\aula21\exer01\MerceariaSolution\MerceariaSolution.Domain\obj\Debug\net5.0\ref\MerceariaSolution.Domain.dll

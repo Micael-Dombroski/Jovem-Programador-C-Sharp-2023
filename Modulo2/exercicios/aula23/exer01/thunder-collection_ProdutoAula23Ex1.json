@@ -1,0 +1,105 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "ProdutoAula23Ex1",
+    "dateExported": "2023-12-05T22:47:03.294Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "5be87597-f317-46a4-a4c9-803d7108fbc5",
+            "colId": "3c7a21c8-6ebb-44aa-9483-25e19ce18416",
+            "containerId": "",
+            "name": "PostProduto",
+            "url": "http://localhost:5000/api/Produto/",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2023-12-05T03:47:00.660Z",
+            "modified": "2023-12-05T03:47:00.660Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"nome\": \"foguete\",\n  \"marca\": \"flamengo\",\n  \"dataVencimento\": \"2027-10-03\",\n  \"precoUnitario\": 0.75,\n  \"unidade\": \"Un\",\n  \"qtEstoque\": 20.0\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "68c2afa6-65db-41b1-becd-0de5a2246448",
+            "colId": "3c7a21c8-6ebb-44aa-9483-25e19ce18416",
+            "containerId": "",
+            "name": "GetProdutos",
+            "url": "http://localhost:5000/api/Produto/",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2023-12-05T03:47:00.661Z",
+            "modified": "2023-12-05T22:06:18.224Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "a2b3a29c-6395-4c50-8376-464da6364f08",
+            "colId": "3c7a21c8-6ebb-44aa-9483-25e19ce18416",
+            "containerId": "",
+            "name": "GetProduto",
+            "url": "http://localhost:5000/api/Produto/1",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2023-12-05T03:47:00.662Z",
+            "modified": "2023-12-05T22:06:22.854Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "4118a5ec-e1a2-425b-9082-557f398c7149",
+            "colId": "3c7a21c8-6ebb-44aa-9483-25e19ce18416",
+            "containerId": "",
+            "name": "PutProduto",
+            "url": "http://localhost:5000/api/Produto/",
+            "method": "PUT",
+            "sortNum": 60000,
+            "created": "2023-12-05T03:47:00.663Z",
+            "modified": "2023-12-05T22:06:29.560Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"id\": 1,\n    \"nome\": \"frango\",\n    \"marca\": \"frito\",\n    \"dataVencimento\": \"2024-01-13\",\n    \"precoUnitario\": 25.75,\n    \"unidade\": \"Un\",\n    \"qtEstoque\": 10.0\n  }",
+                "form": []
+            },
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        },
+        {
+            "_id": "f2404282-4888-4249-b296-9ae480a4fec9",
+            "colId": "3c7a21c8-6ebb-44aa-9483-25e19ce18416",
+            "containerId": "",
+            "name": "DeleteProduto",
+            "url": "http://localhost:5000/api/Produto/1",
+            "method": "DELETE",
+            "sortNum": 70000,
+            "created": "2023-12-05T03:47:00.664Z",
+            "modified": "2023-12-05T22:06:54.488Z",
+            "headers": [],
+            "params": [],
+            "auth": {
+                "type": "bearer",
+                "bearer": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjUiLCJuYmYiOjE3MDE4MTM4MDAsImV4cCI6MTcwMjQxODYwMCwiaWF0IjoxNzAxODEzODAwfQ.F95kkZT64i0OYSUAQKtFPW0E_MSr9u_OGZw5fMaoy54"
+            },
+            "tests": []
+        }
+    ]
+}

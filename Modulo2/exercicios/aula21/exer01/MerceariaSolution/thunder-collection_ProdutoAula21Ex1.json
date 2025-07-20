@@ -1,0 +1,89 @@
+{
+    "client": "Thunder Client",
+    "collectionName": "ProdutoAula21Ex1",
+    "dateExported": "2023-11-24T02:34:13.693Z",
+    "version": "1.1",
+    "folders": [],
+    "requests": [
+        {
+            "_id": "81792878-e6bd-42e8-9b1b-df96ca96f10a",
+            "colId": "ddffecf6-6fbb-4589-b39d-25384095426a",
+            "containerId": "",
+            "name": "PostProduto",
+            "url": "http://localhost:5000/api/Produto/",
+            "method": "POST",
+            "sortNum": 30000,
+            "created": "2023-11-24T02:23:22.172Z",
+            "modified": "2023-11-24T02:27:10.180Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n  \"nome\": \"foguete\",\n  \"marca\": \"flamengo\",\n  \"dataVencimento\": \"2027-10-03\",\n  \"precoUnitario\": 0.75,\n  \"unidade\": \"Un\",\n  \"qtEstoque\": 20.0\n}",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "bbab63df-9715-44d5-86db-ba5d93d3f9e5",
+            "colId": "ddffecf6-6fbb-4589-b39d-25384095426a",
+            "containerId": "",
+            "name": "GetProdutos",
+            "url": "http://localhost:5000/api/Produto/",
+            "method": "GET",
+            "sortNum": 40000,
+            "created": "2023-11-24T02:23:22.173Z",
+            "modified": "2023-11-24T02:23:22.173Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "9e955d51-685b-43e0-a033-494a424bf042",
+            "colId": "ddffecf6-6fbb-4589-b39d-25384095426a",
+            "containerId": "",
+            "name": "GetProduto",
+            "url": "http://localhost:5000/api/Produto/1",
+            "method": "GET",
+            "sortNum": 50000,
+            "created": "2023-11-24T02:23:22.174Z",
+            "modified": "2023-11-24T02:23:22.174Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        },
+        {
+            "_id": "2409d150-1e95-4dc9-9470-2bb430349379",
+            "colId": "ddffecf6-6fbb-4589-b39d-25384095426a",
+            "containerId": "",
+            "name": "PutProduto",
+            "url": "http://localhost:5000/api/Produto/",
+            "method": "PUT",
+            "sortNum": 60000,
+            "created": "2023-11-24T02:23:22.175Z",
+            "modified": "2023-11-24T02:23:22.175Z",
+            "headers": [],
+            "params": [],
+            "body": {
+                "type": "json",
+                "raw": "{\n    \"id\": 1,\n    \"nome\": \"frango\",\n    \"marca\": \"frito\",\n    \"dataVencimento\": \"2024-01-13\",\n    \"precoUnitario\": 25.75,\n    \"unidade\": \"Un\",\n    \"qtEstoque\": 10.0\n  }",
+                "form": []
+            },
+            "tests": []
+        },
+        {
+            "_id": "ef26e1f3-b33a-47c3-a8bd-134075b21c81",
+            "colId": "ddffecf6-6fbb-4589-b39d-25384095426a",
+            "containerId": "",
+            "name": "DeleteProduto",
+            "url": "http://localhost:5000/api/Produto/8",
+            "method": "DELETE",
+            "sortNum": 70000,
+            "created": "2023-11-24T02:23:22.176Z",
+            "modified": "2023-11-24T02:27:57.226Z",
+            "headers": [],
+            "params": [],
+            "tests": []
+        }
+    ]
+}
