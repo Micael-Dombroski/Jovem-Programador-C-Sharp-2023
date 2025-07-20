@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SolucaoTeste01.Classes/1.0.0": {
+        "runtime": {
+          "SolucaoTeste01.Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SolucaoTeste01.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

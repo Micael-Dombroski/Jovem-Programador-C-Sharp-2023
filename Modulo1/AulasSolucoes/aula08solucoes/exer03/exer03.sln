@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer03.ConsoleApp", "exer03.ConsoleApp\exer03.ConsoleApp.csproj", "{147F6C14-85FD-4B34-8337-ABB726E2FB87}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer03.Classes", "exer03.Classes\exer03.Classes.csproj", "{C40D6278-CF0E-4FB3-BD3D-32B11CC6B775}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{147F6C14-85FD-4B34-8337-ABB726E2FB87}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{147F6C14-85FD-4B34-8337-ABB726E2FB87}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{147F6C14-85FD-4B34-8337-ABB726E2FB87}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{147F6C14-85FD-4B34-8337-ABB726E2FB87}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C40D6278-CF0E-4FB3-BD3D-32B11CC6B775}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C40D6278-CF0E-4FB3-BD3D-32B11CC6B775}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C40D6278-CF0E-4FB3-BD3D-32B11CC6B775}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C40D6278-CF0E-4FB3-BD3D-32B11CC6B775}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

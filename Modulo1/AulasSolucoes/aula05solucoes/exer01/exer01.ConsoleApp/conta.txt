@@ -1,0 +1,4 @@
+ Lista de Contas
+ Agencia | Número | Correntista | Saldo
+      1     |  2  | lucas  |   R$ 1205,75
+      3     |  3  | ana  |   R$ 2500

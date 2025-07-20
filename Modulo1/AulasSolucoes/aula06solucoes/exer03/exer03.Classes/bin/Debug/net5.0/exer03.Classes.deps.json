@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exer03.Classes/1.0.0": {
+        "runtime": {
+          "exer03.Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exer03.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

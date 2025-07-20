@@ -1,0 +1,12 @@
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.csproj.AssemblyReference.cache
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.AssemblyInfoInputs.cache
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.AssemblyInfo.cs
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.csproj.CoreCompileInputs.cache
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\bin\Debug\net7.0\SolucaoTeste04.Classes.deps.json
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\bin\Debug\net7.0\SolucaoTeste04.Classes.dll
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\bin\Debug\net7.0\SolucaoTeste04.Classes.pdb
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.dll
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\refint\SolucaoTeste04.Classes.dll
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\SolucaoTeste04.Classes.pdb
+C:\Cursos\DevSistemas\aula08solucoes\exer04\SolucaoTeste04\SolucaoTeste04.Classes\obj\Debug\net7.0\ref\SolucaoTeste04.Classes.dll

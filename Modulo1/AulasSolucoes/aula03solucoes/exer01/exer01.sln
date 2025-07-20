@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer01.ConsoleApp", "exer01.ConsoleApp\exer01.ConsoleApp.csproj", "{AE880BFC-4878-4289-B82D-4FE2DEACD0CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer01.Classes", "exer01.Classes\exer01.Classes.csproj", "{A07541A8-72BB-4B1D-B597-7B0AE3312F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE880BFC-4878-4289-B82D-4FE2DEACD0CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE880BFC-4878-4289-B82D-4FE2DEACD0CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE880BFC-4878-4289-B82D-4FE2DEACD0CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE880BFC-4878-4289-B82D-4FE2DEACD0CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A07541A8-72BB-4B1D-B597-7B0AE3312F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A07541A8-72BB-4B1D-B597-7B0AE3312F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A07541A8-72BB-4B1D-B597-7B0AE3312F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A07541A8-72BB-4B1D-B597-7B0AE3312F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

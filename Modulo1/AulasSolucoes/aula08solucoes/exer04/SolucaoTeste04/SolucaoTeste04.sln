@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoTeste04.Classes", "SolucaoTeste04.Classes\SolucaoTeste04.Classes.csproj", "{72767271-31B8-49D4-BBBD-F51919954814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolucaoTeste04.Tests", "SolucaoTeste04.Tests\SolucaoTeste04.Tests.csproj", "{EA011BBF-E433-41EE-AA4C-B824605D169D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72767271-31B8-49D4-BBBD-F51919954814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72767271-31B8-49D4-BBBD-F51919954814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72767271-31B8-49D4-BBBD-F51919954814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72767271-31B8-49D4-BBBD-F51919954814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA011BBF-E433-41EE-AA4C-B824605D169D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA011BBF-E433-41EE-AA4C-B824605D169D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA011BBF-E433-41EE-AA4C-B824605D169D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA011BBF-E433-41EE-AA4C-B824605D169D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

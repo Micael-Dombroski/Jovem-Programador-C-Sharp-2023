@@ -1,0 +1,16 @@
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.csproj.AssemblyReference.cache
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.AssemblyInfoInputs.cache
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.AssemblyInfo.cs
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.csproj.CoreCompileInputs.cache
+C:\Cursos\DevSistemas\teste\protected\bin\Debug\net5.0\protected.exe
+C:\Cursos\DevSistemas\teste\protected\bin\Debug\net5.0\protected.deps.json
+C:\Cursos\DevSistemas\teste\protected\bin\Debug\net5.0\protected.runtimeconfig.json
+C:\Cursos\DevSistemas\teste\protected\bin\Debug\net5.0\protected.runtimeconfig.dev.json
+C:\Cursos\DevSistemas\teste\protected\bin\Debug\net5.0\protected.dll
+C:\Cursos\DevSistemas\teste\protected\bin\Debug\net5.0\protected.pdb
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.dll
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\refint\protected.dll
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.pdb
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\protected.genruntimeconfig.cache
+C:\Cursos\DevSistemas\teste\protected\obj\Debug\net5.0\ref\protected.dll

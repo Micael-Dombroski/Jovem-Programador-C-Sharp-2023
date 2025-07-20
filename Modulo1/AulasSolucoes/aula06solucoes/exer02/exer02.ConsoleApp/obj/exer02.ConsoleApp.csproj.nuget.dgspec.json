@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.ConsoleApp\\exer02.ConsoleApp.csproj": {}
+  },
+  "projects": {
+    "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.Classes\\exer02.Classes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.Classes\\exer02.Classes.csproj",
+        "projectName": "exer02.Classes",
+        "projectPath": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.Classes\\exer02.Classes.csproj",
+        "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.Classes\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.ConsoleApp\\exer02.ConsoleApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.ConsoleApp\\exer02.ConsoleApp.csproj",
+        "projectName": "exer02.ConsoleApp",
+        "projectPath": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.ConsoleApp\\exer02.ConsoleApp.csproj",
+        "packagesPath": "C:\\Users\\jackp\\.nuget\\packages\\",
+        "outputPath": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.ConsoleApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jackp\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.Classes\\exer02.Classes.csproj": {
+                "projectPath": "C:\\Cursos\\DevSistemas\\aula06solucoes\\exer02\\exer02.Classes\\exer02.Classes.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

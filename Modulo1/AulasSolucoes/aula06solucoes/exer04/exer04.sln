@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer04.ConsoleApp", "exer04.ConsoleApp\exer04.ConsoleApp.csproj", "{A28161C5-90BF-4A2A-8927-28D2C5809DA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "exer04.Classes", "exer04.Classes\exer04.Classes.csproj", "{3F92C5CA-0210-4015-B797-9E3C892C1716}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A28161C5-90BF-4A2A-8927-28D2C5809DA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A28161C5-90BF-4A2A-8927-28D2C5809DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A28161C5-90BF-4A2A-8927-28D2C5809DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A28161C5-90BF-4A2A-8927-28D2C5809DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F92C5CA-0210-4015-B797-9E3C892C1716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F92C5CA-0210-4015-B797-9E3C892C1716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F92C5CA-0210-4015-B797-9E3C892C1716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F92C5CA-0210-4015-B797-9E3C892C1716}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

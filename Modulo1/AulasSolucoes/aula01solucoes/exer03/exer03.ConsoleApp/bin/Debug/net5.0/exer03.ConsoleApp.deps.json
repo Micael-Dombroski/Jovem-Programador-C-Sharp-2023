@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "exer03.ConsoleApp/1.0.0": {
+        "dependencies": {
+          "exer03.Classes": "1.0.0"
+        },
+        "runtime": {
+          "exer03.ConsoleApp.dll": {}
+        }
+      },
+      "exer03.Classes/1.0.0": {
+        "runtime": {
+          "exer03.Classes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exer03.ConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "exer03.Classes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
