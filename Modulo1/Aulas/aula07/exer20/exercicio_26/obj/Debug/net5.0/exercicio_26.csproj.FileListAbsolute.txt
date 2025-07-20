@@ -1,0 +1,16 @@
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\bin\Debug\net5.0\exercicio_26.exe
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\bin\Debug\net5.0\exercicio_26.deps.json
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\bin\Debug\net5.0\exercicio_26.runtimeconfig.json
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\bin\Debug\net5.0\exercicio_26.runtimeconfig.dev.json
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\bin\Debug\net5.0\exercicio_26.dll
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\bin\Debug\net5.0\exercicio_26.pdb
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.csproj.AssemblyReference.cache
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.AssemblyInfoInputs.cache
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.AssemblyInfo.cs
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.csproj.CoreCompileInputs.cache
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.dll
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\refint\exercicio_26.dll
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.pdb
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\exercicio_26.genruntimeconfig.cache
+C:\Cursos\DevSistemas\aula07\exer20\exercicio_26\obj\Debug\net5.0\ref\exercicio_26.dll

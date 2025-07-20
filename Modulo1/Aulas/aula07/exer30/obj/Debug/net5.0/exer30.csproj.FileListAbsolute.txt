@@ -1,0 +1,16 @@
+C:\Cursos\DevSistemas\aula07\exer30\bin\Debug\net5.0\exer30.exe
+C:\Cursos\DevSistemas\aula07\exer30\bin\Debug\net5.0\exer30.deps.json
+C:\Cursos\DevSistemas\aula07\exer30\bin\Debug\net5.0\exer30.runtimeconfig.json
+C:\Cursos\DevSistemas\aula07\exer30\bin\Debug\net5.0\exer30.runtimeconfig.dev.json
+C:\Cursos\DevSistemas\aula07\exer30\bin\Debug\net5.0\exer30.dll
+C:\Cursos\DevSistemas\aula07\exer30\bin\Debug\net5.0\exer30.pdb
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.csproj.AssemblyReference.cache
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.AssemblyInfoInputs.cache
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.AssemblyInfo.cs
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.csproj.CoreCompileInputs.cache
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.dll
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\refint\exer30.dll
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.pdb
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\exer30.genruntimeconfig.cache
+C:\Cursos\DevSistemas\aula07\exer30\obj\Debug\net5.0\ref\exer30.dll

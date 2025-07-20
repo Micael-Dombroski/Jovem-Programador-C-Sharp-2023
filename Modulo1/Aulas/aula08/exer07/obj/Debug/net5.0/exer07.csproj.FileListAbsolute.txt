@@ -1,0 +1,16 @@
+C:\Cursos\DevSistemas\aula08\exer07\bin\Debug\net5.0\exer07.exe
+C:\Cursos\DevSistemas\aula08\exer07\bin\Debug\net5.0\exer07.deps.json
+C:\Cursos\DevSistemas\aula08\exer07\bin\Debug\net5.0\exer07.runtimeconfig.json
+C:\Cursos\DevSistemas\aula08\exer07\bin\Debug\net5.0\exer07.runtimeconfig.dev.json
+C:\Cursos\DevSistemas\aula08\exer07\bin\Debug\net5.0\exer07.dll
+C:\Cursos\DevSistemas\aula08\exer07\bin\Debug\net5.0\exer07.pdb
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.csproj.AssemblyReference.cache
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.AssemblyInfoInputs.cache
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.AssemblyInfo.cs
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.csproj.CoreCompileInputs.cache
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.dll
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\refint\exer07.dll
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.pdb
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\exer07.genruntimeconfig.cache
+C:\Cursos\DevSistemas\aula08\exer07\obj\Debug\net5.0\ref\exer07.dll

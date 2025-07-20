@@ -1,0 +1,16 @@
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.csproj.AssemblyReference.cache
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.AssemblyInfoInputs.cache
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.AssemblyInfo.cs
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.csproj.CoreCompileInputs.cache
+C:\Cursos\DevSistemas\aula07\infos\bin\Debug\net5.0\infos.exe
+C:\Cursos\DevSistemas\aula07\infos\bin\Debug\net5.0\infos.deps.json
+C:\Cursos\DevSistemas\aula07\infos\bin\Debug\net5.0\infos.runtimeconfig.json
+C:\Cursos\DevSistemas\aula07\infos\bin\Debug\net5.0\infos.runtimeconfig.dev.json
+C:\Cursos\DevSistemas\aula07\infos\bin\Debug\net5.0\infos.dll
+C:\Cursos\DevSistemas\aula07\infos\bin\Debug\net5.0\infos.pdb
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.dll
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\refint\infos.dll
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.pdb
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\infos.genruntimeconfig.cache
+C:\Cursos\DevSistemas\aula07\infos\obj\Debug\net5.0\ref\infos.dll

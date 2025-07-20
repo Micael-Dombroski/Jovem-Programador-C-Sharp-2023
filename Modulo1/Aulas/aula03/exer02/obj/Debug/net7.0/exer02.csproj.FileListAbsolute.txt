@@ -1,0 +1,30 @@
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\bin\Debug\net7.0\exer02.exe
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\bin\Debug\net7.0\exer02.deps.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\bin\Debug\net7.0\exer02.runtimeconfig.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\bin\Debug\net7.0\exer02.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\bin\Debug\net7.0\exer02.pdb
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.csproj.AssemblyReference.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.AssemblyInfoInputs.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.AssemblyInfo.cs
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.csproj.CoreCompileInputs.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\refint\exer02.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.pdb
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\exer02.genruntimeconfig.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer02\obj\Debug\net7.0\ref\exer02.dll
+C:\Cursos\aula3\exer02\bin\Debug\net7.0\exer02.exe
+C:\Cursos\aula3\exer02\bin\Debug\net7.0\exer02.deps.json
+C:\Cursos\aula3\exer02\bin\Debug\net7.0\exer02.runtimeconfig.json
+C:\Cursos\aula3\exer02\bin\Debug\net7.0\exer02.dll
+C:\Cursos\aula3\exer02\bin\Debug\net7.0\exer02.pdb
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.csproj.AssemblyReference.cache
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.AssemblyInfoInputs.cache
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.AssemblyInfo.cs
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.csproj.CoreCompileInputs.cache
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.dll
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\refint\exer02.dll
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.pdb
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\exer02.genruntimeconfig.cache
+C:\Cursos\aula3\exer02\obj\Debug\net7.0\ref\exer02.dll

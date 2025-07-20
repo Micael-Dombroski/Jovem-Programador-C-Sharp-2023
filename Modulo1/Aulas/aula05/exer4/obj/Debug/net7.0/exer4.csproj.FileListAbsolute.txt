@@ -1,0 +1,15 @@
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.csproj.AssemblyReference.cache
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.AssemblyInfoInputs.cache
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.AssemblyInfo.cs
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.csproj.CoreCompileInputs.cache
+C:\Cursos\aula6\exer4\bin\Debug\net7.0\exer4.exe
+C:\Cursos\aula6\exer4\bin\Debug\net7.0\exer4.deps.json
+C:\Cursos\aula6\exer4\bin\Debug\net7.0\exer4.runtimeconfig.json
+C:\Cursos\aula6\exer4\bin\Debug\net7.0\exer4.dll
+C:\Cursos\aula6\exer4\bin\Debug\net7.0\exer4.pdb
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.dll
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\refint\exer4.dll
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.pdb
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\exer4.genruntimeconfig.cache
+C:\Cursos\aula6\exer4\obj\Debug\net7.0\ref\exer4.dll

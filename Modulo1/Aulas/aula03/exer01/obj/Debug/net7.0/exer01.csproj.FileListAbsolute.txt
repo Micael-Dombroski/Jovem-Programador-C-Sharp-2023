@@ -1,0 +1,45 @@
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\bin\Debug\net7.0\exer01.exe
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\bin\Debug\net7.0\exer01.deps.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\bin\Debug\net7.0\exer01.runtimeconfig.json
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\bin\Debug\net7.0\exer01.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\bin\Debug\net7.0\exer01.pdb
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.csproj.AssemblyReference.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.AssemblyInfoInputs.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.AssemblyInfo.cs
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.csproj.CoreCompileInputs.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\refint\exer01.dll
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.pdb
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\exer01.genruntimeconfig.cache
+C:\Users\jackp\Downloads\Vareusin T-T\VS Code\micael.dombroski\cursos\devsistemas\aula03\exer01\obj\Debug\net7.0\ref\exer01.dll
+C:\Cursos\aula3\exer01\bin\Debug\net7.0\exer01.exe
+C:\Cursos\aula3\exer01\bin\Debug\net7.0\exer01.deps.json
+C:\Cursos\aula3\exer01\bin\Debug\net7.0\exer01.runtimeconfig.json
+C:\Cursos\aula3\exer01\bin\Debug\net7.0\exer01.dll
+C:\Cursos\aula3\exer01\bin\Debug\net7.0\exer01.pdb
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.csproj.AssemblyReference.cache
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.AssemblyInfoInputs.cache
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.AssemblyInfo.cs
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.csproj.CoreCompileInputs.cache
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.dll
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\refint\exer01.dll
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.pdb
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\exer01.genruntimeconfig.cache
+C:\Cursos\aula3\exer01\obj\Debug\net7.0\ref\exer01.dll
+C:\Cursos\Cursos\aula03\exer01\bin\Debug\net7.0\exer01.exe
+C:\Cursos\Cursos\aula03\exer01\bin\Debug\net7.0\exer01.deps.json
+C:\Cursos\Cursos\aula03\exer01\bin\Debug\net7.0\exer01.runtimeconfig.json
+C:\Cursos\Cursos\aula03\exer01\bin\Debug\net7.0\exer01.dll
+C:\Cursos\Cursos\aula03\exer01\bin\Debug\net7.0\exer01.pdb
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.csproj.AssemblyReference.cache
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.AssemblyInfoInputs.cache
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.AssemblyInfo.cs
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.csproj.CoreCompileInputs.cache
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.dll
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\refint\exer01.dll
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.pdb
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\exer01.genruntimeconfig.cache
+C:\Cursos\Cursos\aula03\exer01\obj\Debug\net7.0\ref\exer01.dll
